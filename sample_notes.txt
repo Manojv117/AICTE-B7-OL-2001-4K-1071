@@ -1,0 +1,176 @@
+BIOLOGY STUDY NOTES — Chapter 5: Cell Biology and Genetics
+
+=======================================================
+PART 1: CELL STRUCTURE
+=======================================================
+
+The cell is the basic structural and functional unit of all living organisms.
+There are two fundamental types of cells: prokaryotic and eukaryotic.
+
+Prokaryotic Cells:
+- Found in bacteria and archaea
+- No membrane-bound nucleus; DNA is located in the nucleoid region
+- Smaller in size (1–10 micrometers)
+- No membrane-bound organelles
+- Reproduce by binary fission
+- Examples: E. coli, Streptococcus
+
+Eukaryotic Cells:
+- Found in plants, animals, fungi, and protists
+- Contain a membrane-bound nucleus housing the DNA
+- Larger in size (10–100 micrometers)
+- Contain membrane-bound organelles (mitochondria, ER, Golgi, etc.)
+- Reproduce by mitosis (for growth) or meiosis (for reproduction)
+
+Key Organelles and Their Functions:
+1. Nucleus: Control center of the cell; contains DNA and directs protein synthesis
+2. Mitochondria: Powerhouse of the cell; produces ATP via cellular respiration
+3. Ribosomes: Site of protein synthesis; found free in cytoplasm or on rough ER
+4. Endoplasmic Reticulum (ER):
+   - Rough ER: has ribosomes; involved in protein processing
+   - Smooth ER: no ribosomes; involved in lipid synthesis and detoxification
+5. Golgi Apparatus: Packages and ships proteins to their destinations
+6. Lysosomes: Contain digestive enzymes; break down waste materials
+7. Chloroplasts (plant cells only): Site of photosynthesis; contain chlorophyll
+8. Cell Membrane: Phospholipid bilayer controlling what enters and exits the cell
+9. Cell Wall (plant cells): Rigid outer layer made of cellulose; provides support
+10. Vacuoles: Storage organelles; large central vacuole in plant cells maintains turgor pressure
+
+=======================================================
+PART 2: CELL DIVISION
+=======================================================
+
+MITOSIS:
+Mitosis is the process of somatic (body) cell division producing two genetically
+identical daughter cells. It is essential for growth, repair, and asexual reproduction.
+
+Phases of Mitosis:
+1. Prophase — Chromosomes condense; spindle fibers form; nuclear envelope breaks down
+2. Metaphase — Chromosomes align at the cell's equator (metaphase plate)
+3. Anaphase — Sister chromatids separate; pulled to opposite poles by spindle fibers
+4. Telophase — Nuclear envelopes reform; chromosomes de-condense
+5. Cytokinesis — Cytoplasm divides; two daughter cells form
+
+Before mitosis, the cell undergoes INTERPHASE (G1 → S phase → G2):
+- G1: Cell grows; proteins synthesized
+- S Phase: DNA replication occurs (chromosome number doubles)
+- G2: Cell prepares for division; final checks
+
+MEIOSIS:
+Meiosis produces four genetically unique haploid cells (gametes).
+It involves two rounds of division: Meiosis I and Meiosis II.
+Key difference from mitosis: homologous chromosomes separate in Meiosis I,
+and crossing-over during prophase I generates genetic variation.
+
+=======================================================
+PART 3: GENETICS
+=======================================================
+
+DNA Structure:
+DNA (Deoxyribonucleic Acid) is a double helix made of nucleotides.
+Each nucleotide contains:
+- A deoxyribose sugar
+- A phosphate group
+- A nitrogenous base: Adenine (A), Thymine (T), Guanine (G), or Cytosine (C)
+
+Base pairing rules: A pairs with T (2 hydrogen bonds); G pairs with C (3 hydrogen bonds)
+
+DNA Replication (occurs in S phase):
+1. Helicase unwinds the double helix at the origin of replication
+2. Primase adds RNA primers
+3. DNA Polymerase III adds complementary nucleotides (5' to 3' direction)
+4. DNA Polymerase I removes RNA primers; fills gaps
+5. Ligase seals the sugar-phosphate backbone
+
+Protein Synthesis:
+The Central Dogma: DNA → RNA → Protein
+
+Transcription (DNA → mRNA):
+- Occurs in the nucleus
+- RNA Polymerase reads the template strand (3' to 5')
+- mRNA is synthesized (5' to 3')
+- mRNA is processed: 5' cap added, poly-A tail added, introns spliced out
+- mRNA leaves nucleus through nuclear pores
+
+Translation (mRNA → Protein):
+- Occurs at ribosomes
+- tRNA carries amino acids; anticodon base-pairs with mRNA codon
+- Start codon: AUG (methionine)
+- Stop codons: UAA, UAG, UGA
+- Peptide bonds form between amino acids
+- Polypeptide chain folds into a 3D protein structure
+
+Mendelian Genetics:
+Gregor Mendel's laws:
+1. Law of Segregation: Alleles separate during gamete formation
+2. Law of Independent Assortment: Genes on different chromosomes assort independently
+
+Key Terms:
+- Genotype: Genetic makeup (e.g., Aa, BB, rr)
+- Phenotype: Observable characteristic
+- Dominant allele: Expressed when one or two copies present
+- Recessive allele: Only expressed when two copies present (homozygous recessive)
+- Heterozygous: Two different alleles (Aa)
+- Homozygous: Two identical alleles (AA or aa)
+- Punnett Square: Tool to predict offspring ratios
+
+Example: Tall (T) is dominant over short (t)
+Cross: Tt × Tt → TT : Tt : tt = 1 : 2 : 1
+Phenotype ratio: 3 tall : 1 short
+
+Mutations:
+A mutation is a change in the DNA sequence.
+Types:
+- Point mutation: Single nucleotide change (substitution, insertion, deletion)
+- Frameshift mutation: Insertion or deletion causing a reading frame shift
+- Chromosomal mutation: Large-scale change (deletion, duplication, inversion, translocation)
+
+Mutations can be silent (no effect), missense (different amino acid), or nonsense (premature stop codon).
+
+=======================================================
+PART 4: PHOTOSYNTHESIS
+=======================================================
+
+Photosynthesis: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+
+Occurs in chloroplasts in two stages:
+
+Light-Dependent Reactions (Thylakoid membrane):
+- Light energy absorbed by chlorophyll
+- Water is split (photolysis): 2H2O → 4H+ + 4e- + O2
+- ATP synthesized via chemiosmosis (ATP synthase)
+- NADPH formed from NADP+ + H+
+- Products: ATP, NADPH, O2
+
+Calvin Cycle / Light-Independent Reactions (Stroma):
+- CO2 fixed by RuBisCO onto RuBP (5-carbon molecule)
+- Uses ATP and NADPH from light reactions
+- Produces G3P (glyceraldehyde-3-phosphate), which builds glucose
+- RuBP is regenerated (3 turns needed to make 1 G3P net)
+
+=======================================================
+PART 5: CELLULAR RESPIRATION
+=======================================================
+
+Cellular Respiration: C6H12O6 + 6O2 → 6CO2 + 6H2O + ~38 ATP
+
+Stage 1 — Glycolysis (cytoplasm):
+- Glucose (6C) split into 2 pyruvate (3C)
+- Net gain: 2 ATP, 2 NADH
+- Does NOT require oxygen
+
+Stage 2 — Pyruvate Oxidation (mitochondrial matrix):
+- Each pyruvate → Acetyl-CoA + CO2
+- 2 NADH produced
+
+Stage 3 — Krebs Cycle / Citric Acid Cycle (mitochondrial matrix):
+- Acetyl-CoA enters cycle
+- Produces: 2 ATP, 6 NADH, 2 FADH2, 4 CO2 per glucose
+
+Stage 4 — Electron Transport Chain + Oxidative Phosphorylation (inner mitochondrial membrane):
+- NADH and FADH2 donate electrons
+- Electrons pass through protein complexes; proton gradient forms
+- ATP synthase uses gradient to produce ~34 ATP
+- Oxygen is final electron acceptor → forms water
+
+Total ATP yield per glucose molecule: approximately 36–38 ATP
